@@ -1,0 +1,46 @@
+/***************************TAG SELECTORS***************************/
+body {
+
+  background-color: #F5F5F5;
+}
+
+p {
+     color: #42C2FF;
+   }
+
+   li {
+        color: #42C2FF;
+      }
+
+      ul {
+           color: #42C2FF;
+         }
+         table {
+              color: #42C2FF;
+            }
+
+hr {
+  width: 3.5%;
+  border-style: none;
+  border-top-style: dotted;
+
+  border-color: #4D96FF;
+  border-width: 4.5px
+}
+
+img {
+  height: 240px;
+  }
+
+
+h1 {
+  color: Silver;
+}
+h3 {
+  color: #39AEA9;
+}
+
+/***************************CLASS SELECTORS***************************/
+.circular {
+  border-radius: 100%
+}
